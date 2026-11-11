@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "category": "Coffee",
+    "price": 3,
+    "description": "A double shot of our house espresso."
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "category": "Coffee",
+    "price": 4.5,
+    "description": "Espresso with steamed milk and a thick layer of foam."
+  },
+  {
+    "id": 3,
+    "name": "Oat Milk Latte",
+    "category": "Coffee",
+    "price": 5.25,
+    "description": "Espresso and steamed oat milk, smooth and lightly sweet."
+  },
+  {
+    "id": 4,
+    "name": "Cold Brew",
+    "category": "Coffee",
+    "price": 4.75,
+    "description": "Steeped for 18 hours and served over ice."
+  },
+  {
+    "id": 5,
+    "name": "Chai Latte",
+    "category": "Tea",
+    "price": 4.75,
+    "description": "Spiced black tea concentrate with steamed milk."
+  },
+  {
+    "id": 6,
+    "name": "Matcha Latte",
+    "category": "Tea",
+    "price": 5.5,
+    "description": "Stone-ground green tea whisked with your choice of milk."
+  },
+  {
+    "id": 7,
+    "name": "Earl Grey",
+    "category": "Tea",
+    "price": 3.25,
+    "description": "Black tea with bergamot, served hot."
+  },
+  {
+    "id": 8,
+    "name": "Butter Croissant",
+    "category": "Pastries",
+    "price": 3.75,
+    "description": "Flaky, all-butter croissant baked fresh every morning."
+  },
+  {
+    "id": 9,
+    "name": "Blueberry Muffin",
+    "category": "Pastries",
+    "price": 3.5,
+    "description": "Loaded with blueberries and topped with crumble."
+  },
+  {
+    "id": 10,
+    "name": "Cinnamon Roll",
+    "category": "Pastries",
+    "price": 4.25,
+    "description": "Soft roll with cinnamon sugar and cream cheese icing."
+  },
+  {
+    "id": 11,
+    "name": "Avocado Toast",
+    "category": "Breakfast",
+    "price": 8.5,
+    "description": "Sourdough with smashed avocado, chili flakes, and lemon."
+  },
+  {
+    "id": 12,
+    "name": "Breakfast Sandwich",
+    "category": "Breakfast",
+    "price": 7.75,
+    "description": "Egg, cheddar, and spinach on a toasted English muffin."
+  }
+]
